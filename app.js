@@ -1,9 +1,9 @@
 const questions = [{
-    'que': 'which of the following is a markup language?',
-    'a': 'HTML',
-    'b': 'CSS',
-    'c': 'JavaScript',
-    'd': 'PHP',
+    'que': 'What does HTML stand for?',
+    'a': 'Hypertext Markup Language',
+    'b': 'Cascading Style Sheet',
+    'c': 'Jason Object Notation',
+    'd': 'Helicopters Terminals Motorboats Lamborginis',
     'correct': 'a',
 },
 {
